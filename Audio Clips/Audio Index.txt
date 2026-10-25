@@ -1,0 +1,6 @@
+001 - Alright we're here. Take a look at the equipment and prepare accordingly before starting the investigation.
+002 - We've arrived. Check the equipment and get setup before the investigating.
+003 - Something's not quite ride, you better hide quickly!
+004 - Crucifix burns
+005 - The ghost here seems to be linked to a cursed object. Go take a closer look. Maybe using it will help your investigation.
+006 - Whoever was here must have summoned the ghost with a cursed object. Investigate it but be careful, we don't know what its capable of.
